@@ -1,5 +1,5 @@
-import string
 import random
+import string
 
 """
 A class that generates a random passwords that is 32 characters in length and
